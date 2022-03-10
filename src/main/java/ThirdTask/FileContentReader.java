@@ -1,4 +1,4 @@
-package ThirdTask.search;
+package ThirdTask;
 
 import java.io.File;
 

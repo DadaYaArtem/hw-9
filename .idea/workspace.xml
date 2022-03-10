@@ -5,14 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3884e952-a5f3-407f-87af-d5baf4cbacf4" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/../hw-10/hw-10.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hw-10/src/FifthTask/Mixing.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hw-10/src/FourthTask/RandomAlgorithm.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hw-10/src/SecondTask/SortingList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hw-10/src/ThirdTask/SortingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-11/hw-11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-11/src/FirstTask/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-11/src/SecondTask/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-12/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-12/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-12/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-12/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-12/src/main/java/json/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-12/src/main/java/json/data/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-12/src/main/java/json/data/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-12/src/main/java/json/data/Geo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-12/src/main/java/json/data/Root.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-8/hw-8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/src/main/java/Currency/CurrencyItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/src/main/java/Currency/CurrencyParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/src/main/java/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/src/main/java/aRTICLEpARSER.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/src/main/java/httpClientRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonTest/src/main/java/jsoupTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegramBot/src/main/java/TelegramBotApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegramBot/src/main/java/com/javacore5/feature/currency/CurrencyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegramBot/src/main/java/com/javacore5/feature/currency/PrivateBankCurrencyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegramBot/src/main/java/com/javacore5/feature/currency/dto/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegramBot/src/main/java/com/javacore5/feature/currency/dto/CurrencyItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegramBot/src/main/java/com/javacore5/feature/telegram/BotConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegramBot/src/main/java/com/javacore5/feature/telegram/CurrencyTelegramBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegramBot/src/main/java/com/javacore5/feature/telegram/TelegramBotService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegramBot/src/main/java/com/javacore5/feature/telegram/command/StartCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegramBot/src/main/java/com/javacore5/feature/ui/PrettyPrintCurrencyService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw-10/src/FirstTask/OddNamesFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-10/src/FirstTask/OddNamesFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ThirdTaskFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTaskFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FirstTask/search/ContentReaderTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FirstTask/selection/ContentSearcherTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdTask/search/ContentReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThirdTask/ContentReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdTask/search/ContentReaderTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThirdTask/ContentReaderTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdTask/search/FileContentReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThirdTask/FileContentReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdTask/search/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThirdTask/Selection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +93,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -65,7 +110,7 @@
       <recent name="D:\учёба\hw-9\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContentReaderTests">
+  <component name="RunManager" selected="Application.ContentReaderTests (2)">
     <configuration name="AllTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstTask.AllTests" />
       <module name="hw-9" />
@@ -92,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContentReaderTests (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstTask.search.ContentReaderTests" />
+    <configuration name="ContentReaderTests (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdTask.ContentReaderTests" />
       <module name="hw-9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FirstTask.search.*" />
+          <option name="PATTERN" value="ThirdTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContentSearcherTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstTask.selection.ContentSearcherTests" />
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondTask.User" />
       <module name="hw-9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FirstTask.selection.*" />
+          <option name="PATTERN" value="SecondTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContentReaderTests (2)" />
         <item itemvalue="Application.ContentReaderTests" />
         <item itemvalue="Application.ContentReader" />
+        <item itemvalue="Application.User" />
         <item itemvalue="Application.AllTests" />
-        <item itemvalue="Application.ContentReaderTests (1)" />
-        <item itemvalue="Application.ContentSearcherTests" />
       </list>
     </recent_temporary>
   </component>

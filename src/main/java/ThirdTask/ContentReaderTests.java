@@ -1,4 +1,4 @@
-package ThirdTask.search;
+package ThirdTask;
 
 import java.io.File;
 
@@ -7,7 +7,6 @@ public class ContentReaderTests {
         FileContentReader fileContentReader = new ContentReader();
         Selection selector = new Selection();
         String content = fileContentReader.read(new File("src/ThirdTaskFile.txt"));
-        System.out.println(content);
         selector.select(content);
     }
 }

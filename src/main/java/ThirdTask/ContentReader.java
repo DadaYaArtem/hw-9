@@ -1,4 +1,4 @@
-package ThirdTask.search;
+package ThirdTask;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -16,7 +16,7 @@ public class ContentReader implements FileContentReader {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        return result.toString().replaceAll(" {2,}", " ");
+        return result.toString();
     }
 
 }
